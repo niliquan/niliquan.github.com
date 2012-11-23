@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[taobaibai]]></title>
+  <link href="http://niliquan.github.com/atom.xml" rel="self"/>
+  <link href="http://niliquan.github.com/"/>
+  <updated>2012-01-20T00:00:00+08:00</updated>
+  <id>http://niliquan.github.com/</id>
+  <author>
+    <name><![CDATA[桃baibai]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
