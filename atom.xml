@@ -13,4 +13,12 @@
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://niliquan.github.com/blog/hello-world.html"/>
+    <updated>2012-11-23T12:16:00+08:00</updated>
+    <id>http://niliquan.github.com/blog/hello-world</id>
+    <content type="html"><![CDATA[]]></content>
+  </entry>
+  
 </feed>
